@@ -1,0 +1,11 @@
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Abstractions\bin\Debug\net9.0\NeuralNetwork.Abstractions.deps.json
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Abstractions\bin\Debug\net9.0\NeuralNetwork.Abstractions.dll
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Abstractions\bin\Debug\net9.0\NeuralNetwork.Abstractions.pdb
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Abstractions\obj\Debug\net9.0\NeuralNetwork.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Abstractions\obj\Debug\net9.0\NeuralNetwork.Abstractions.AssemblyInfoInputs.cache
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Abstractions\obj\Debug\net9.0\NeuralNetwork.Abstractions.AssemblyInfo.cs
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Abstractions\obj\Debug\net9.0\NeuralNetwork.Abstractions.csproj.CoreCompileInputs.cache
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Abstractions\obj\Debug\net9.0\NeuralNetwork.Abstractions.dll
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Abstractions\obj\Debug\net9.0\refint\NeuralNetwork.Abstractions.dll
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Abstractions\obj\Debug\net9.0\NeuralNetwork.Abstractions.pdb
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Abstractions\obj\Debug\net9.0\ref\NeuralNetwork.Abstractions.dll

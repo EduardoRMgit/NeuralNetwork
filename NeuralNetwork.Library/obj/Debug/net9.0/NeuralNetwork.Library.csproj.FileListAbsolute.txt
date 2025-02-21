@@ -1,0 +1,15 @@
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Library\bin\Debug\net9.0\NeuralNetwork.Library.deps.json
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Library\bin\Debug\net9.0\NeuralNetwork.Library.dll
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Library\bin\Debug\net9.0\NeuralNetwork.Library.pdb
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Library\bin\Debug\net9.0\NeuralNetwork.Abstractions.dll
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Library\bin\Debug\net9.0\NeuralNetwork.Abstractions.pdb
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Library\obj\Debug\net9.0\NeuralNetwork.Library.csproj.AssemblyReference.cache
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Library\obj\Debug\net9.0\NeuralNetwork.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Library\obj\Debug\net9.0\NeuralNetwork.Library.AssemblyInfoInputs.cache
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Library\obj\Debug\net9.0\NeuralNetwork.Library.AssemblyInfo.cs
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Library\obj\Debug\net9.0\NeuralNetwork.Library.csproj.CoreCompileInputs.cache
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Library\obj\Debug\net9.0\NeuralNe.32BE4638.Up2Date
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Library\obj\Debug\net9.0\NeuralNetwork.Library.dll
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Library\obj\Debug\net9.0\refint\NeuralNetwork.Library.dll
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Library\obj\Debug\net9.0\NeuralNetwork.Library.pdb
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Library\obj\Debug\net9.0\ref\NeuralNetwork.Library.dll
