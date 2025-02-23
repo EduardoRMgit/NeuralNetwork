@@ -3,40 +3,28 @@
   "WorkspaceRootPath": "C:\\NeuralNetwork\\NeuralNetwork\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAAD2EFF-009F-47D9-B004-3B80F3998C4B}|ConsoleApp\\ConsoleApp.csproj|c:\\neuralnetwork\\neuralnetwork\\consoleapp\\simpledemo\\simpleneuralnetworkexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAAD2EFF-009F-47D9-B004-3B80F3998C4B}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\simpledemo\\simpleneuralnetworkexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EAAD2EFF-009F-47D9-B004-3B80F3998C4B}|ConsoleApp\\ConsoleApp.csproj|c:\\neuralnetwork\\neuralnetwork\\consoleapp\\studycase\\studycaseexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAAD2EFF-009F-47D9-B004-3B80F3998C4B}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\studycase\\studycaseexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EAAD2EFF-009F-47D9-B004-3B80F3998C4B}|ConsoleApp\\ConsoleApp.csproj|c:\\neuralnetwork\\neuralnetwork\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAAD2EFF-009F-47D9-B004-3B80F3998C4B}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAAD2EFF-009F-47D9-B004-3B80F3998C4B}|ConsoleApp\\ConsoleApp.csproj|c:\\neuralnetwork\\neuralnetwork\\consoleapp\\simpledemo\\simpleneuralnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAAD2EFF-009F-47D9-B004-3B80F3998C4B}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\simpledemo\\simpleneuralnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{321240C6-6B97-49D9-B3B5-A13D7C873BF3}|NeuralNetwork.Library\\NeuralNetwork.Library.csproj|c:\\neuralnetwork\\neuralnetwork\\neuralnetwork.library\\trainers\\backpropagationtrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{321240C6-6B97-49D9-B3B5-A13D7C873BF3}|NeuralNetwork.Library\\NeuralNetwork.Library.csproj|solutionrelative:neuralnetwork.library\\trainers\\backpropagationtrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{321240C6-6B97-49D9-B3B5-A13D7C873BF3}|NeuralNetwork.Library\\NeuralNetwork.Library.csproj|c:\\neuralnetwork\\neuralnetwork\\neuralnetwork.library\\implementations\\synapse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{321240C6-6B97-49D9-B3B5-A13D7C873BF3}|NeuralNetwork.Library\\NeuralNetwork.Library.csproj|solutionrelative:neuralnetwork.library\\implementations\\synapse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EAAD2EFF-009F-47D9-B004-3B80F3998C4B}|ConsoleApp\\ConsoleApp.csproj|c:\\neuralnetwork\\neuralnetwork\\consoleapp\\studycase\\studycaseneuralnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAAD2EFF-009F-47D9-B004-3B80F3998C4B}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\studycase\\studycaseneuralnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{321240C6-6B97-49D9-B3B5-A13D7C873BF3}|NeuralNetwork.Library\\NeuralNetwork.Library.csproj|c:\\neuralnetwork\\neuralnetwork\\neuralnetwork.library\\implementations\\neuron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{321240C6-6B97-49D9-B3B5-A13D7C873BF3}|NeuralNetwork.Library\\NeuralNetwork.Library.csproj|solutionrelative:neuralnetwork.library\\implementations\\neuron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EAAD2EFF-009F-47D9-B004-3B80F3998C4B}|ConsoleApp\\ConsoleApp.csproj|c:\\neuralnetwork\\neuralnetwork\\consoleapp\\studycase\\model\\studydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAAD2EFF-009F-47D9-B004-3B80F3998C4B}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\studycase\\model\\studydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{321240C6-6B97-49D9-B3B5-A13D7C873BF3}|NeuralNetwork.Library\\NeuralNetwork.Library.csproj|c:\\neuralnetwork\\neuralnetwork\\neuralnetwork.library\\implementations\\axon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{321240C6-6B97-49D9-B3B5-A13D7C873BF3}|NeuralNetwork.Library\\NeuralNetwork.Library.csproj|solutionrelative:neuralnetwork.library\\implementations\\axon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{321240C6-6B97-49D9-B3B5-A13D7C873BF3}|NeuralNetwork.Library\\NeuralNetwork.Library.csproj|c:\\neuralnetwork\\neuralnetwork\\neuralnetwork.library\\implementations\\neuralnetworkbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{321240C6-6B97-49D9-B3B5-A13D7C873BF3}|NeuralNetwork.Library\\NeuralNetwork.Library.csproj|solutionrelative:neuralnetwork.library\\implementations\\neuralnetworkbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{321240C6-6B97-49D9-B3B5-A13D7C873BF3}|NeuralNetwork.Library\\NeuralNetwork.Library.csproj|c:\\neuralnetwork\\neuralnetwork\\neuralnetwork.library\\neuralnetwork.library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{321240C6-6B97-49D9-B3B5-A13D7C873BF3}|NeuralNetwork.Library\\NeuralNetwork.Library.csproj|solutionrelative:neuralnetwork.library\\neuralnetwork.library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAAD2EFF-009F-47D9-B004-3B80F3998C4B}|ConsoleApp\\ConsoleApp.csproj|c:\\neuralnetwork\\neuralnetwork\\consoleapp\\consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EAAD2EFF-009F-47D9-B004-3B80F3998C4B}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{EAAD2EFF-009F-47D9-B004-3B80F3998C4B}|ConsoleApp\\ConsoleApp.csproj|c:\\neuralnetwork\\neuralnetwork\\consoleapp\\simpledemo\\simpleneuralnetworkexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAAD2EFF-009F-47D9-B004-3B80F3998C4B}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\simpledemo\\simpleneuralnetworkexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 984,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,63 +54,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Synapse.cs",
-              "DocumentMoniker": "C:\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork.Library\\Implementations\\Synapse.cs",
-              "RelativeDocumentMoniker": "NeuralNetwork.Library\\Implementations\\Synapse.cs",
-              "ToolTip": "C:\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork.Library\\Implementations\\Synapse.cs",
-              "RelativeToolTip": "NeuralNetwork.Library\\Implementations\\Synapse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "BackPropagationTrainer.cs",
+              "DocumentMoniker": "C:\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork.Library\\Trainers\\BackPropagationTrainer.cs",
+              "RelativeDocumentMoniker": "NeuralNetwork.Library\\Trainers\\BackPropagationTrainer.cs",
+              "ToolTip": "C:\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork.Library\\Trainers\\BackPropagationTrainer.cs",
+              "RelativeToolTip": "NeuralNetwork.Library\\Trainers\\BackPropagationTrainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T03:57:37.058Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Axon.cs",
-              "DocumentMoniker": "C:\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork.Library\\Implementations\\Axon.cs",
-              "RelativeDocumentMoniker": "NeuralNetwork.Library\\Implementations\\Axon.cs",
-              "ToolTip": "C:\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork.Library\\Implementations\\Axon.cs",
-              "RelativeToolTip": "NeuralNetwork.Library\\Implementations\\Axon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T03:57:35.926Z"
+              "WhenOpened": "2025-02-22T03:46:06.015Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Neuron.cs",
-              "DocumentMoniker": "C:\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork.Library\\Implementations\\Neuron.cs",
-              "RelativeDocumentMoniker": "NeuralNetwork.Library\\Implementations\\Neuron.cs",
-              "ToolTip": "C:\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork.Library\\Implementations\\Neuron.cs",
-              "RelativeToolTip": "NeuralNetwork.Library\\Implementations\\Neuron.cs",
+              "Title": "StudyData.cs",
+              "DocumentMoniker": "C:\\NeuralNetwork\\NeuralNetwork\\ConsoleApp\\StudyCase\\Model\\StudyData.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\StudyCase\\Model\\StudyData.cs",
+              "ToolTip": "C:\\NeuralNetwork\\NeuralNetwork\\ConsoleApp\\StudyCase\\Model\\StudyData.cs",
+              "RelativeToolTip": "ConsoleApp\\StudyCase\\Model\\StudyData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T03:57:31.595Z"
+              "WhenOpened": "2025-02-22T03:45:12.978Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NeuralNetworkBase.cs",
-              "DocumentMoniker": "C:\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork.Library\\Implementations\\NeuralNetworkBase.cs",
-              "RelativeDocumentMoniker": "NeuralNetwork.Library\\Implementations\\NeuralNetworkBase.cs",
-              "ToolTip": "C:\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork.Library\\Implementations\\NeuralNetworkBase.cs",
-              "RelativeToolTip": "NeuralNetwork.Library\\Implementations\\NeuralNetworkBase.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA1wF0AAABYAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "StudyCaseNeuralNetwork.cs",
+              "DocumentMoniker": "C:\\NeuralNetwork\\NeuralNetwork\\ConsoleApp\\StudyCase\\StudyCaseNeuralNetwork.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\StudyCase\\StudyCaseNeuralNetwork.cs",
+              "ToolTip": "C:\\NeuralNetwork\\NeuralNetwork\\ConsoleApp\\StudyCase\\StudyCaseNeuralNetwork.cs",
+              "RelativeToolTip": "ConsoleApp\\StudyCase\\StudyCaseNeuralNetwork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T03:54:56.75Z"
+              "WhenOpened": "2025-02-22T03:45:09.294Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NeuralNetwork.Library.csproj",
-              "DocumentMoniker": "C:\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork.Library\\NeuralNetwork.Library.csproj",
-              "RelativeDocumentMoniker": "NeuralNetwork.Library\\NeuralNetwork.Library.csproj",
-              "ToolTip": "C:\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork.Library\\NeuralNetwork.Library.csproj",
-              "RelativeToolTip": "NeuralNetwork.Library\\NeuralNetwork.Library.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-15T03:54:52.212Z"
+              "DocumentIndex": 0,
+              "Title": "StudyCaseExample.cs",
+              "DocumentMoniker": "C:\\NeuralNetwork\\NeuralNetwork\\ConsoleApp\\StudyCase\\StudyCaseExample.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\StudyCase\\StudyCaseExample.cs",
+              "ToolTip": "C:\\NeuralNetwork\\NeuralNetwork\\ConsoleApp\\StudyCase\\StudyCaseExample.cs",
+              "RelativeToolTip": "ConsoleApp\\StudyCase\\StudyCaseExample.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T03:44:59.235Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -132,46 +112,23 @@
               "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
               "ToolTip": "C:\\NeuralNetwork\\NeuralNetwork\\ConsoleApp\\Program.cs",
               "RelativeToolTip": "ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T03:40:47.758Z"
+              "WhenOpened": "2025-02-22T03:44:29.844Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "SimpleNeuralNetworkExample.cs",
               "DocumentMoniker": "C:\\NeuralNetwork\\NeuralNetwork\\ConsoleApp\\SimpleDemo\\SimpleNeuralNetworkExample.cs",
               "RelativeDocumentMoniker": "ConsoleApp\\SimpleDemo\\SimpleNeuralNetworkExample.cs",
               "ToolTip": "C:\\NeuralNetwork\\NeuralNetwork\\ConsoleApp\\SimpleDemo\\SimpleNeuralNetworkExample.cs",
               "RelativeToolTip": "ConsoleApp\\SimpleDemo\\SimpleNeuralNetworkExample.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T03:40:30.245Z",
+              "WhenOpened": "2025-02-22T03:08:43.91Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SimpleNeuralNetwork.cs",
-              "DocumentMoniker": "C:\\NeuralNetwork\\NeuralNetwork\\ConsoleApp\\SimpleDemo\\SimpleNeuralNetwork.cs",
-              "RelativeDocumentMoniker": "ConsoleApp\\SimpleDemo\\SimpleNeuralNetwork.cs",
-              "ToolTip": "C:\\NeuralNetwork\\NeuralNetwork\\ConsoleApp\\SimpleDemo\\SimpleNeuralNetwork.cs",
-              "RelativeToolTip": "ConsoleApp\\SimpleDemo\\SimpleNeuralNetwork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T03:27:31.841Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ConsoleApp.csproj",
-              "DocumentMoniker": "C:\\NeuralNetwork\\NeuralNetwork\\ConsoleApp\\ConsoleApp.csproj",
-              "RelativeDocumentMoniker": "ConsoleApp\\ConsoleApp.csproj",
-              "ToolTip": "C:\\NeuralNetwork\\NeuralNetwork\\ConsoleApp\\ConsoleApp.csproj",
-              "RelativeToolTip": "ConsoleApp\\ConsoleApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-15T03:26:11.003Z"
             }
           ]
         },

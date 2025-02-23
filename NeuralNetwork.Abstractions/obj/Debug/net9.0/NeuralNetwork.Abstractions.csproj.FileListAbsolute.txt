@@ -9,3 +9,4 @@ C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Abstractions\obj\Debug\net9.0\Neura
 C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Abstractions\obj\Debug\net9.0\refint\NeuralNetwork.Abstractions.dll
 C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Abstractions\obj\Debug\net9.0\NeuralNetwork.Abstractions.pdb
 C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Abstractions\obj\Debug\net9.0\ref\NeuralNetwork.Abstractions.dll
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Abstractions\obj\Debug\net9.0\NeuralNetwork.Abstractions.sourcelink.json

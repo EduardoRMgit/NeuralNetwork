@@ -1,0 +1,12 @@
+C:\NeuralNetwork\NeuralNetwork\CSVLibrary\bin\Debug\net9.0\CSVLibrary.deps.json
+C:\NeuralNetwork\NeuralNetwork\CSVLibrary\bin\Debug\net9.0\CSVLibrary.dll
+C:\NeuralNetwork\NeuralNetwork\CSVLibrary\bin\Debug\net9.0\CSVLibrary.pdb
+C:\NeuralNetwork\NeuralNetwork\CSVLibrary\obj\Debug\net9.0\CSVLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\NeuralNetwork\NeuralNetwork\CSVLibrary\obj\Debug\net9.0\CSVLibrary.AssemblyInfoInputs.cache
+C:\NeuralNetwork\NeuralNetwork\CSVLibrary\obj\Debug\net9.0\CSVLibrary.AssemblyInfo.cs
+C:\NeuralNetwork\NeuralNetwork\CSVLibrary\obj\Debug\net9.0\CSVLibrary.csproj.CoreCompileInputs.cache
+C:\NeuralNetwork\NeuralNetwork\CSVLibrary\obj\Debug\net9.0\CSVLibrary.sourcelink.json
+C:\NeuralNetwork\NeuralNetwork\CSVLibrary\obj\Debug\net9.0\CSVLibrary.dll
+C:\NeuralNetwork\NeuralNetwork\CSVLibrary\obj\Debug\net9.0\refint\CSVLibrary.dll
+C:\NeuralNetwork\NeuralNetwork\CSVLibrary\obj\Debug\net9.0\CSVLibrary.pdb
+C:\NeuralNetwork\NeuralNetwork\CSVLibrary\obj\Debug\net9.0\ref\CSVLibrary.dll

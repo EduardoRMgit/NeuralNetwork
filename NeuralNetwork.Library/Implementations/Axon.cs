@@ -9,13 +9,13 @@ namespace NeuralNetwork.Library.Implementations
 {
     internal class Axon : IAxon
     {
-        public List<ISynapse> Terminals => TerminalsField;
+        public List<ISynapse> Terminals { get; } = [];
 
-        readonly List<ISynapse> TerminalsField = [];
+        //readonly List<ISynapse> TerminalsField = [];
 
         public void AddTerminal(ISynapse terminal)
         {
-            TerminalsField.Add(terminal);
+            Terminals.Add(terminal);
         }
 
         // enviar el valor de salida a las terminales

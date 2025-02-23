@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net9.0": {
+      "CSVLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/CSVLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CSVLibrary.dll": {}
+        }
+      },
       "NeuralNetwork.Abstractions/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -28,6 +38,11 @@
     }
   },
   "libraries": {
+    "CSVLibrary/1.0.0": {
+      "type": "project",
+      "path": "../CSVLibrary/CSVLibrary.csproj",
+      "msbuildProject": "../CSVLibrary/CSVLibrary.csproj"
+    },
     "NeuralNetwork.Abstractions/1.0.0": {
       "type": "project",
       "path": "../NeuralNetwork.Abstractions/NeuralNetwork.Abstractions.csproj",
@@ -41,6 +56,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "CSVLibrary >= 1.0.0",
       "NeuralNetwork.Library >= 1.0.0"
     ]
   },
@@ -77,6 +93,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "C:\\NeuralNetwork\\NeuralNetwork\\CSVLibrary\\CSVLibrary.csproj": {
+              "projectPath": "C:\\NeuralNetwork\\NeuralNetwork\\CSVLibrary\\CSVLibrary.csproj"
+            },
             "C:\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork.Library\\NeuralNetwork.Library.csproj": {
               "projectPath": "C:\\NeuralNetwork\\NeuralNetwork\\NeuralNetwork.Library\\NeuralNetwork.Library.csproj"
             }

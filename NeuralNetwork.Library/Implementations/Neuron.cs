@@ -22,6 +22,7 @@ namespace NeuralNetwork.Library.Implementations
         public double OutputValue { get; private set; }
 
         public double Bias { get; private set; }
+        public double Delta { get; set; }
 
         public IInputFunction InputFunction => inputFunction;
 

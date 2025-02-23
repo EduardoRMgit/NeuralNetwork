@@ -1,3 +1,5 @@
 ﻿using ConsoleApp.SimpleDemo;
+using ConsoleApp.StudyCase;
 
-SimpleNeuralNetworkExample.DoExample();
+//SimpleNeuralNetworkExample.DoExample();
+StudyCaseExample.ExecuteExample();

@@ -17,6 +17,7 @@ namespace NeuralNetwork.Abstractions
 
         // necesitamos el sesgo
         double Bias { get; }
+        double Delta { get; set; }
 
         void SetBiasValue(double value);
 

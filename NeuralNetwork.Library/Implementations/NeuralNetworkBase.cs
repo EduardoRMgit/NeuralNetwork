@@ -112,7 +112,7 @@ namespace NeuralNetwork.Library.Implementations
             // construir neurona, las dendritas,crear sinapse y asignale a la terminal de la capa previa
             // y asignar a la dendrita en esa capa
 
-            HiddenLayers = NeuralNetworkHelper.CreateHiddenLayer(hiddenLayerNeuronsCount,
+            HiddenLayers = NeuralNetworkHelper.CreateHiddenLayers(hiddenLayerNeuronsCount,
                 InputLayer,
                 HiddenLayerInputFunction,
                 HiddenLayerActivationFunction);

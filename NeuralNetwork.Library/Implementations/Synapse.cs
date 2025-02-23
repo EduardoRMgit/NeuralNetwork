@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace NeuralNetwork.Library.Implementations
 {
-    internal class Synapse : ISynapse
+    public class Synapse : ISynapse
     {
         public double Value { get; private set; }
 

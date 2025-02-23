@@ -13,3 +13,4 @@ C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Library\obj\Debug\net9.0\NeuralNetw
 C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Library\obj\Debug\net9.0\refint\NeuralNetwork.Library.dll
 C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Library\obj\Debug\net9.0\NeuralNetwork.Library.pdb
 C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Library\obj\Debug\net9.0\ref\NeuralNetwork.Library.dll
+C:\NeuralNetwork\NeuralNetwork\NeuralNetwork.Library\obj\Debug\net9.0\NeuralNetwork.Library.sourcelink.json

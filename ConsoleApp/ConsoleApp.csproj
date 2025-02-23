@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CSVLibrary\CSVLibrary.csproj" />
     <ProjectReference Include="..\NeuralNetwork.Library\NeuralNetwork.Library.csproj" />
   </ItemGroup>
 
